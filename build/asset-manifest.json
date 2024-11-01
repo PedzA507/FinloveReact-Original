@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.7898de66.js",
+    "static/js/453.caca7434.chunk.js": "/static/js/453.caca7434.chunk.js",
+    "static/media/logofinlove.png": "/static/media/logofinlove.7c3476fc35f51e59451b.png",
+    "static/media/BG.png": "/static/media/BG.43c4bba3413b8f1701dd.png",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.7898de66.js.map": "/static/js/main.7898de66.js.map",
+    "453.caca7434.chunk.js.map": "/static/js/453.caca7434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7898de66.js"
+  ]
+}
