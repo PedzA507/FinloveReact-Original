@@ -149,7 +149,7 @@ export default function Index() {
                             },
                           }}
                         >
-                          ตรวจสอบรายงาน
+                          ข้อมูลพนักงาน
                         </Button>
 
                         <Button

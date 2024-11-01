@@ -196,7 +196,7 @@ export default function Dashboard() {
 
           {/* User Report Table */}
           <Box sx={{ mt: 4 }}>
-            <Typography variant="h6" gutterBottom>ผู้ใช้ถูกระงับใหม่</Typography>
+            <Typography variant="h6" gutterBottom>ผู้ใช้ที่ถูกรายงานล่าสุด</Typography>
             <TableContainer component={Paper} sx={{ backgroundColor: '#fff', borderRadius: '10px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)', border: '2px solid black' }}>
               <Table>
                 <TableHead>
